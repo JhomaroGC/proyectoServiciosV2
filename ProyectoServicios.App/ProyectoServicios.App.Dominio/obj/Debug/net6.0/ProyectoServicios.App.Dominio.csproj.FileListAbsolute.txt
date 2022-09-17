@@ -1,0 +1,12 @@
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Dominio\bin\Debug\net6.0\ProyectoServicios.App.Dominio.deps.json
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Dominio\bin\Debug\net6.0\ProyectoServicios.App.Dominio.dll
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Dominio\bin\Debug\net6.0\ProyectoServicios.App.Dominio.pdb
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Dominio\obj\Debug\net6.0\ProyectoServicios.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Dominio\obj\Debug\net6.0\ProyectoServicios.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Dominio\obj\Debug\net6.0\ProyectoServicios.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Dominio\obj\Debug\net6.0\ProyectoServicios.App.Dominio.AssemblyInfo.cs
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Dominio\obj\Debug\net6.0\ProyectoServicios.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Dominio\obj\Debug\net6.0\ProyectoServicios.App.Dominio.dll
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Dominio\obj\Debug\net6.0\refint\ProyectoServicios.App.Dominio.dll
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Dominio\obj\Debug\net6.0\ProyectoServicios.App.Dominio.pdb
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Dominio\obj\Debug\net6.0\ref\ProyectoServicios.App.Dominio.dll

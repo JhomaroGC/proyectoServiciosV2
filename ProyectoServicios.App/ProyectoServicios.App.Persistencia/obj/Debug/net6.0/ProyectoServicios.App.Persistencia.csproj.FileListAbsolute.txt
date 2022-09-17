@@ -1,0 +1,17 @@
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.AssemblyInfo.cs
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\bin\Debug\net6.0\ProyectoServicios.App.Persistencia.deps.json
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\bin\Debug\net6.0\ProyectoServicios.App.Persistencia.runtimeconfig.json
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\bin\Debug\net6.0\ProyectoServicios.App.Persistencia.dll
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\bin\Debug\net6.0\ProyectoServicios.App.Persistencia.pdb
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\bin\Debug\net6.0\ProyectoServicios.App.Dominio.dll
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\bin\Debug\net6.0\ProyectoServicios.App.Dominio.pdb
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.csproj.CopyComplete
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.dll
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\refint\ProyectoServicios.App.Persistencia.dll
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.pdb
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.genruntimeconfig.cache
+C:\Users\jhoma\Desktop\proyectoServiciosV2\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ref\ProyectoServicios.App.Persistencia.dll
